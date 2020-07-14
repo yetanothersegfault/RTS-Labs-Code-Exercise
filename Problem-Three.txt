@@ -1,0 +1,6 @@
+FOR RTS Labs Code Exercise
+
+Problem Three:
+#3  If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
+
+The one thing I would change about Java would be how the print functions are called.  Writing System.out.print (or println / printf) is overly verbose.  In other languages it is much shorter to write.  In C it is just printf();.  C++ is cout << "Output";. In Python it is also just print().  That would be the biggest thing in Java that I would change to make printing out to the console easier and less typing.
